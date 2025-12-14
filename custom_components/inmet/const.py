@@ -12,8 +12,8 @@ FEED = "feed"
 
 DEFAULT_ICON = "mdi:check"
 ALERT_ICON = "mdi:alert"
-DEFAULT_CODE = "3509502"  # Campinas
-DEFAULT_NAME = "Campinas"  # Campinas
+DEFAULT_CODE = "3507001"  # Boituva
+DEFAULT_NAME = "Boituva"
 DEFAULT_SCAN_INTERVAL = timedelta(minutes=30)
 
 # Definindo o número máximo de cidades a exibir
