@@ -1,5 +1,5 @@
 {
-  "domain": "smcr",
+  "domain": "inmet_alertas",
   "name": "InMet Alerts",
   "codeowners": [
     "@rede-analista"
