@@ -4,7 +4,7 @@ from datetime import timedelta
 
 from homeassistant.const import Platform
 
-DOMAIN = "inmet"
+DOMAIN = "smcr"
 
 PLATFORMS = [Platform.GEO_LOCATION, Platform.SENSOR]
 
