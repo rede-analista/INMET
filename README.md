@@ -3,7 +3,7 @@
 Este custom component consulta o site do INMET (Instituto Nacional de Meteorologia) em busca de alertas meteorológicos para sua região e exibe essas informações no Home Assistant.
 
 ## Instalação
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=sigrist&repository=inmet&category=Integration)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=rede-analista&repository=INMET&category=Integration)
 
 A instalação deste custom component pode ser feita através do HACS, seguindo os seguintes passos:
 

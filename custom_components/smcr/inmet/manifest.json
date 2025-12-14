@@ -2,11 +2,11 @@
   "domain": "inmet",
   "name": "InMet Alerts",
   "codeowners": [
-    "@sigrist"
+    "@rede-analista"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/sigrist/inmet",
-  "issue_tracker": "https://github.com/sigrist/inmet/issues",
+  "documentation": "https://github.com/rede-analista/INMET",
+  "issue_tracker": "https://github.com/rede-analista/INMET/issues",
   "integration_type": "service",
   "iot_class": "cloud_polling",
   "requirements": [],
