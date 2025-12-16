@@ -18,7 +18,7 @@ Após a instalação, reinicie o Home Assistant para que o componente seja recon
 Os sensores são criados a partir do código da cidade disponível no site do INMET. Para encontrar o código da sua cidade, siga estas etapas:
 
 1. Procure por um alerta meteorológico da sua cidade no site do INMET.
-2. Copie o código da cidade (Por exemplo, o código de Campinas/SP é `3509502`).
+2. Copie o código da cidade (Por exemplo, o código de Boituva/SP é `3507001`).
 
 Com o código da cidade, você pode configurar os sensores no Home Assistant para receber atualizações de alertas meteorológicos específicos da sua região.
 
